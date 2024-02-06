@@ -1,0 +1,103 @@
+[{
+        "S.No": 1,
+        "Number Plate Image": "images/image1.jpg",
+        "Vehicle Number": "TN93E8911",
+        "Date": "29-11-2023",
+        "Time": "09:18:21",
+        "Status": "Entry"
+
+    },
+    {
+        "S.No": 2,
+        "Number Plate Image": "images/image2.jpg",
+        "Vehicle Number": "TN93E5907",
+        "Date": "29-11-2023",
+        "Time": "09:45:03",
+        "Status": "Entry"
+    },
+    {
+        "S.No": 3,
+        "Number Plate Image": "images/image3.jpg",
+        "Vehicle Number": "TN52S1472",
+        "Date": "29-11-2023",
+        "Time": "10:20:17",
+        "Status": "Exit"
+
+    },
+    {
+        "S.No": 4,
+        "Number Plate Image": "images/image4.jpg",
+        "Vehicle Number": "TN01D2292",
+        "Date": "29-11-2023",
+        "Time": "10:28:58",
+        "Status": "Entry"
+    },
+    {
+        "S.No": 5,
+        "Number Plate Image": "images/image5.jpg",
+        "Vehicle Number": "TN93E8911",
+        "Date": "29-11-2023",
+        "Time": "11:31:45",
+        "Status": "Entry"
+
+    },
+    {
+        "S.No": 6,
+        "Number Plate Image": "images/image2.jpg",
+        "Vehicle Number": "TN93E5907",
+        "Date": "29-11-2023",
+        "Time": "11:20:21",
+        "Status": "Exit"
+    },
+    {
+        "S.No": 7,
+        "Number Plate Image": "images/image4.jpg",
+        "Vehicle Number": "TN01D2292",
+        "Date": "29-11-2023",
+        "Time": "11:57:10",
+        "Status": "Entry"
+
+    },
+    {
+        "S.No": 8,
+        "Number Plate Image": "images/image1.jpg",
+        "Vehicle Number": "TN93E8911",
+        "Date": "29-11-2023",
+        "Time": "12:15:39",
+        "Status": "Exit"
+    },
+    {
+        "S.No": 9,
+        "Number Plate Image": "images/image3.jpg",
+        "Vehicle Number": "TN52S1472",
+        "Date": "29-11-2023",
+        "Time": "12:57:29",
+        "Status": "Entry"
+
+    },
+    {
+        "S.No": 10,
+        "Number Plate Image": "images/image5.jpg",
+        "Vehicle Number": "TN93E8911",
+        "Date": "29-11-2023",
+        "Time": "12:59:23",
+        "Status": "Entry"
+    },
+    {
+        "S.No": 11,
+        "Number Plate Image": "images/image2.jpg",
+        "Vehicle Number": "TN93E5907",
+        "Date": "29-11-2023",
+        "Time": "13:21:00",
+        "Status": "Entry"
+
+    },
+    {
+        "S.No": 12,
+        "Number Plate Image": "images/image4.jpg",
+        "Vehicle Number": "TN01D2292",
+        "Date": "29-11-2023",
+        "Time": "13:18:49",
+        "Status": "Entry"
+    }
+]
